@@ -1,0 +1,18 @@
+{
+  "name": "mq-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mq-client.js",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "geckoboard": "^1.2.0",
+    "moment": "^2.22.2",
+    "mqtt": "^2.18.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
